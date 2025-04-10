@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bondquest/static/css/main.0c48ea12.css",
+    "main.js": "/bondquest/static/js/main.41f1fbca.js",
+    "static/js/453.d3808f53.chunk.js": "/bondquest/static/js/453.d3808f53.chunk.js",
+    "index.html": "/bondquest/index.html",
+    "main.0c48ea12.css.map": "/bondquest/static/css/main.0c48ea12.css.map",
+    "main.41f1fbca.js.map": "/bondquest/static/js/main.41f1fbca.js.map",
+    "453.d3808f53.chunk.js.map": "/bondquest/static/js/453.d3808f53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c48ea12.css",
+    "static/js/main.41f1fbca.js"
+  ]
+}
